@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bson-3.12.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/GymManagementSystem/Library/bson-3.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/GymManagementSystem/Library/mongo-java-driver-3.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/GymManagementSystem/Library/mongodb-driver-core-3.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/GymManagementSystem/Library/mongodb-driver-sync-3.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
